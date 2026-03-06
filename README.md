@@ -3,7 +3,7 @@ This is a game about a slime eating radioactive food to grow larger.
 # How to play
 Collect the radioactive sticks and try to reach the maximum size as fast as you can. 
 To launch the game, just launch the main.exe file.
-# Controlls
+# Controls
 W = up,
 A = left,
 S = down,

@@ -10,4 +10,4 @@ S = down,
 D = right,
 R = reset,
 # Screenshot
-<img width="1047" height="750" alt="Image" src="https://github.com/user-attachments/assets/4c1acc8f-7ffa-4383-9940-005cfc6fb6fb" />
+<img width="1045" height="745" alt="Image" src="https://github.com/user-attachments/assets/1a9bf0bf-d656-47a8-80d7-90e40d22fe4b" />

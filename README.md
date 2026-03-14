@@ -1,8 +1,9 @@
 # Slime game
 This is a game about a slime eating radioactive food to grow larger.
 # How to play
-Collect the radioactive sticks and try to reach the maximum size as fast as you can. 
-To launch the game, just launch the main.exe file.
+- Collect the radioactive sticks and try to reach the maximum size as fast as you can.
+- Avoid the red sticks since they kill you. 
+- To launch the game, just launch the main.exe file.
 # Controls
 W = up,
 A = left,
